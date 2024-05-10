@@ -2,8 +2,8 @@
 
 ### I'm Using Github 😄
 
-<p align=center>![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hasiptektas)</p>
-<p align=center>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasiptektas&layout=compact&locale=tr&card_width=495&card_height=195)</p>
+<div align=center>![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hasiptektas)</div>
+<div align=center>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasiptektas&layout=compact&locale=tr&card_width=495&card_height=195)</div>
 
 <!--
 **hasiptektas/hasiptektas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
