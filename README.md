@@ -1,6 +1,6 @@
-<p align="center"><### Hi there 👋 </p>
+<p align="center">Hi there 👋 </p>
 
-<p align="center">### I'm Using Github 😄</p>
+<p align="center">I'm Using Github 😄</p>
 
 <h1 align="center">
 
