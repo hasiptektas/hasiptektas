@@ -2,12 +2,12 @@
 
 <p align="center">I'm Using Github 😄</p>
 
-<h1 align="center">
+<div align="center">
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hasiptektas)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasiptektas&layout=compact&locale=tr&card_width=495&card_height=195)
 
-</h1>
+</div>
 
 <!--
 **hasiptektas/hasiptektas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
