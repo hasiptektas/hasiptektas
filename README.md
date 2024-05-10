@@ -1,10 +1,10 @@
 <p align="center">Hi there 👋 </p>
 
-<p align="center">I'm Using Github 😄</p>
+<p align="center">I'm Using Github 😄</p> &nbsp;&nbsp;&nbsp;
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+</div>&nbsp;&nbsp;&nbsp;
 
 <div align="center">
 
