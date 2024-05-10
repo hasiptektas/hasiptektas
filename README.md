@@ -4,8 +4,8 @@
 
 <h1 align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hasiptektas)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasiptektas&layout=compact&locale=tr&card_width=495&card_height=195)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hasiptektas)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasiptektas&layout=compact&locale=tr&card_width=495&card_height=195)
 
 </h1>
 
