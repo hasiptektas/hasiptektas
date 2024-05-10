@@ -1,6 +1,6 @@
-<p align="center">Hi there 👋 </p>
+<h2 align="center">Hi there 👋 </h2>
 
-<p align="center">I'm Using Github 😄</p> &nbsp;&nbsp;&nbsp;
+<h2 align="center">I'm Using Github 😄</h2> &nbsp;&nbsp;&nbsp;
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
